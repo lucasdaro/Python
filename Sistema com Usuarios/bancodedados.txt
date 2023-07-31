@@ -1,0 +1,27 @@
+Marcelo Ribeiro Cardoso, marcelo.r_90@hotmail.com, 15/04/1990, 14991394701, Rua das Begônias, 235, Jardim Alegria, Ribeirão Preto, São Paulo
+Ana Clara Medeiros, ana.c_92@yahoo.com, 12/06/1992, 14991390745, Rua Flor de Lis, 50, Parque São Lucas, São Carlos, São Paulo
+Renato Silva Pires, renato.s_91@gmail.com, 19/09/1991, 14991395678, Rua Camélia, 120, Jardim Primavera, Bauru, São Paulo
+Juliana Machado Rocha, juliana.m_94@hotmail.com, 02/02/1994, 14991391726, Rua Girassol, 310, Vila Nova, Araraquara, São Paulo
+André Pereira Mendonça, andre.p_93@gmail.com, 13/07/1993, 14991394620, Rua Hibisco, 95, Jardim Maravilha, Campinas, São Paulo
+Maria Clara Barbosa, maria.c_91@hotmail.com, 21/10/1991, 14991396712, Rua Azaleia, 480, Jardim do Lago, Marília, São Paulo
+Gabriel Alves da Costa, gabriel.a_96@yahoo.com, 25/12/1996, 14991392715, Rua Violeta, 765, Jardim Esperança, Limeira, São Paulo
+Beatriz Santos Oliveira, beatriz.s_97@gmail.com, 11/03/1997, 14991393749, Rua Rosa, 250, Parque das Flores, Piracicaba, São Paulo
+Bruno Martins Ferreira, bruno.m_89@hotmail.com, 09/06/1989, 14991394687, Rua Orquídea, 800, Jardim Bela Vista, Santos, São Paulo
+Carolina Souza Gomes, carolina.s_93@yahoo.com, 18/08/1993, 14991395740, Rua Margarida, 365, Parque Ibirapuera, Osasco, São Paulo
+Rafael Ribeiro Lima, rafael.r_90@gmail.com, 04/11/1990, 14991391602, Rua Crisântemo, 129, Jardim Felicidade, Barueri, São Paulo
+Laura Dias Carvalho, laura.d_94@hotmail.com, 06/03/1994, 14991397651, Rua Tulipa, 579, Jardim Bonanza, Guarulhos, São Paulo
+Gustavo Costa Fernandes, gustavo.c_96@yahoo.com, 17/07/1996, 14991394763, Rua Lírio, 220, Vila Ouro Verde, Mauá, São Paulo
+Isabela Alves Santos, isabela.a_97@gmail.com, 22/10/1997, 14991393724, Rua Sunflower, 800, Parque Sol Nascente, Itaquaquecetuba, São Paulo
+João Pedro Mendonça, joao.p_92@hotmail.com, 29/12/1992, 14991394635, Rua Lotus, 150, Jardim Europa, Suzano, São Paulo
+Luiza Pereira Ribeiro, luiza.p_90@yahoo.com, 14/04/1990, 14991391783, Rua Tulipa, 180, Jardim Alegre, São José dos Campos, São Paulo
+Felipe Rocha Dias, felipe.r_95@gmail.com, 05/05/1995, 14991395684, Rua Orquídea, 101, Parque São João, Jacareí, São Paulo
+Juliane Barbosa Pires, juliane.b_97@hotmail.com, 18/08/1997, 14991391620, Rua Rosa, 200, Jardim das Flores, Taubaté, São Paulo
+Alexandre Almeida Santos, alexandre.a_96@yahoo.com, 09/06/1996, 14991392769, Rua Azaleia, 300, Jardim Paulista, Pindamonhangaba, São Paulo
+Fernanda Silva Alves, fernanda.s_95@gmail.com, 19/09/1995, 14991393758, Rua Camélia, 410, Jardim América, São Sebastião, São Paulo
+Bruno Fernandes Medeiros, bruno.f_93@hotmail.com, 02/02/1993, 14991394612, Rua Girassol, 230, Jardim Bela Vista, Caraguatatuba, São Paulo
+Clara Costa Barbosa, clara.c_94@yahoo.com, 13/07/1994, 14991395706, Rua das Begônias, 155, Jardim Primavera, Ubatuba, São Paulo
+Renan Pires Silva, renan.p_91@gmail.com, 21/10/1991, 14991391683, Rua das Margaridas, 97, Jardim das Rosas, Campos do Jordão, São Paulo
+Isadora Medeiros Almeida, isadora.m_92@hotmail.com, 25/12/1992, 14991397604, Rua Violeta, 385, Jardim do Sol, Guaratinguetá, São Paulo
+Gabriel Oliveira Rocha, gabriel.o_90@yahoo.com, 11/03/1990, 14991394798, Rua Hibisco, 765, Vila Nova, Lorena, São Paulo
+Beatriz Ferreira Martins, beatriz.f_89@gmail.com, 09/06/1989, 14991393711, Rua Lírio, 450, Parque das Acácias, Piquete, São Paulo
+Rafael Gomes Ribeiro, rafael.g_97@hotmail.com, 18/08/1997, 14991394654, Rua Sunflower, 180, Jardim Europa, Aparecida, São Paulo
